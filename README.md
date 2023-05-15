@@ -29,7 +29,7 @@ Group 5: Members
 
 Borjal, Rhealyn
 
-Canor, Jera Clarisse
+Canoy, Jera Clarisse
 
 Labrador, Frances Fiona
 
