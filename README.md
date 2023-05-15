@@ -5,7 +5,7 @@ In the program, three linked lists are maintained for units:
 2. Rented unit
 3. Under maintenance unit
 
-The units on the available list are ordered by floor number, with the unit having the first floor at the front of  the list. The units on the rented list are ordered by the expected return dates, with the first unit on this list having the earliest expected return date. 
+The units on the available list are ordered by floor number, with the unit having the first floor at the front of the list. The units on the rented list are ordered by the expected return dates, with the first unit on this list having the earliest expected return date. 
 This program promotes the user to choose from the following inputs: 
 
 (1) View available units			
@@ -28,6 +28,9 @@ to the available for rent list
 Group 5: Members
 
 Borjal, Rhealyn
+
 Canor, Jera Clarisse
+
 Labrador, Frances Fiona
+
 Manimtim, Jcel
