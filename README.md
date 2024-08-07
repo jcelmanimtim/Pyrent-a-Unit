@@ -23,7 +23,7 @@ to the available for rent list
 
 (7) Quit
 
-#This program is made for our midterm project.
+#TProjectForIT103
 
 Group 5: Members
 
